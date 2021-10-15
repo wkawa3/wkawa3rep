@@ -1,1 +1,9 @@
-command file
+import pandas as pd
+
+df = pd.read_csv('earthquake.csv')
+
+tabela2=df[['Do you think the "Big One" will occur in your lifetime?','Age',"What is your gender?"]]
+tabela2.rename(columns={'What is your gender?': 'Gender'}, inplace=True)
+tabela2.fillna(method="pad", inplace=True)
+
+tabela2.to_csv('earthquaketidy.csv',index=False)
