@@ -1,0 +1,6 @@
+Plik zawiera dane dotyczące ocen wystawionych przez kupujących odkurzacze oraz ich niektóre dane
+
+Kolumny są nazwane kolejno:
+Id, Dni od zakupu, Marka, Wiek kupującego, Płeć kupującego, Ocena
+
+Kolumna Wiek kupującego zawiera liczne puste miejsca
