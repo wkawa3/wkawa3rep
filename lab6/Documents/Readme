@@ -1,1 +1,9 @@
-asd
+Celem ćwiczenia jest:
+
+Przygotowanie Data appendix i opisu metadanych dla przypisanego zbioru danych.
+Dane to wyniki oceny odkurzaczy w jednej z sieci sklepów z danego województwa oraz dane kupujących.
+Przynalezny zbiór danych określony jest przez resztę z dzielenia sumarycznej liczby liter w imieniu i nazwisku przez 16.
+Zgodnie z zaleceniami protokolu TIER nalezy:
+opisac kazda ze zmiennych
+przygotowac wykres (histogram albo slupkowy) dla kazdej ze zmiennych. Określic w odpowiedni sposob wartosc bins dla kazdej ze zmiennych
+zastosowac odpowiednia strukture plikow
